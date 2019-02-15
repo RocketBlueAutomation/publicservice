@@ -1,2 +1,2 @@
 # publicservice
-Public Service Ratings 
+Public Service Ratings data for use with javascript and plotly 
