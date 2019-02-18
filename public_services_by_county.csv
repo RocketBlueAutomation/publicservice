@@ -1269,7 +1269,7 @@ results,reviews,rating,service,countyState,fips
 50,270,3.98,public services,"Oklahoma County, OK",40109
 50,291,3.98,public services,"Orange County, NC",37135
 50,394,3.98,public services,"Washtenaw County, MI",26161
-50,444,3.98,public services,"Do‹¨«a Ana County, NM", None
+50,444,3.98,public services,"Doña Ana County, NM", 35013
 15,24,3.97,public services,"Grant County, NM",35017
 15,315,3.97,public services,"Castro County, TX",48069
 16,44,3.97,public services,"Lafayette County, AR",5073
@@ -1750,7 +1750,7 @@ results,reviews,rating,service,countyState,fips
 50,260,3.77,public services,"Greene County, MS",28041
 50,264,3.77,public services,"Union County, NC",37179
 50,346,3.77,public services,"Perry County, AR",5105
-17,43,3.76,public services,"LaSalle Parish, LA", None
+17,43,3.76,public services,"LaSalle Parish, LA", 22059
 19,26,3.76,public services,"Jefferson County, IA",19101
 19,262,3.76,public services,"Franklin County, GA",13119
 21,38,3.76,public services,"Isabella County, MI",26073
@@ -2605,7 +2605,7 @@ results,reviews,rating,service,countyState,fips
 17,30,2.94,public services,"Lamar County, TX",48277
 17,75,2.94,public services,"Umatilla County, OR",41059
 7,31,2.93,public services,"Owyhee County, ID",16073
-12,19,2.92,public services,"St. Clair County, MO",2918
+12,19,2.92,public services,"St. Clair County, MO",29185
 18,31,2.89,public services,"Atkinson County, GA",13003
 7,13,2.86,public services,"Hughes County, OK",40063
 21,53,2.86,public services,"Hickory County, MO",29085
