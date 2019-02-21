@@ -1,0 +1,101 @@
+results,reviews,rating,service,countyState,fips
+50,506,4.9,governments,"San Francisco County, CA",6075
+8,31,4.88,governments,"Kiowa County, KS",20097
+7,10,4.86,governments,"Alpena County, MI",26007
+6,13,4.83,governments,"Cook County, MN",27031
+6,29,4.83,governments,"Ford County, KS",20057
+50,69,4.81,governments,"Hartford County, CT",9003
+50,193,4.76,governments,"Orleans Parish, LA",22071
+6,14,4.75,governments,"Kemper County, MS",28069
+6,18,4.75,governments,"Schley County, GA",13249
+50,171,4.72,governments,"Suffolk County, MA",25025
+50,226,4.72,governments,"San Mateo County, CA",6081
+50,162,4.71,governments,"Hamilton County, OH",39061
+50,198,4.7,governments,"St. Bernard Parish, LA",22087
+50,270,4.7,governments,"Alameda County, CA",6001
+50,150,4.68,governments,"Bexar County, TX",48029
+9,32,4.67,governments,"Comanche County, KS",20033
+15,84,4.67,governments,"Presque Isle County, MI",26141
+50,78,4.67,governments,"Darke County, OH",39037
+50,822,4.66,governments,"District of Columbia, DC",11001
+50,203,4.64,governments,"Cuyahoga County, OH",39035
+50,93,4.63,governments,"Bennington County, VT",50003
+50,124,4.63,governments,"Putnam County, FL",12107
+50,293,4.63,governments,"Contra Costa County, CA",6013
+50,672,4.63,governments,"Travis County, TX",48453
+50,99,4.62,governments,"Pawnee County, OK",40117
+50,118,4.62,governments,"Allegheny County, PA",42003
+10,28,4.6,governments,"Metcalfe County, KY",21169
+50,135,4.6,governments,"Northampton County, VA",51131
+50,132,4.59,governments,"Milwaukee County, WI",55079
+50,731,4.59,governments,"Queens County, NY",36081
+6,20,4.58,governments,"Lincoln County, NM",35027
+13,94,4.58,governments,"Fremont County, ID",16043
+50,118,4.58,governments,"Crawford County, IN",18025
+50,205,4.58,governments,"Marion County, IN",18097
+7,22,4.57,governments,"Hemphill County, TX",48211
+7,22,4.57,governments,"Wheeler County, TX",48483
+7,31,4.57,governments,"Meade County, KS",20119
+7,40,4.57,governments,"Webster County, NE",31181
+50,178,4.57,governments,"Salt Lake County, UT",49035
+50,192,4.57,governments,"Fayette County, OH",39047
+50,236,4.57,governments,"Charleston County, SC",45019
+50,283,4.57,governments,"Henrico County, VA",51087
+25,183,4.56,governments,"Chippewa County, MI",26033
+50,103,4.56,governments,"Jackson County, IN",18071
+50,126,4.56,governments,"Ripley County, IN",18137
+50,159,4.56,governments,"Jasper County, SC",45053
+50,241,4.56,governments,"Franklin County, OH",39049
+10,15,4.55,governments,"Alcona County, MI",26001
+50,138,4.55,governments,"King and Queen County, VA",51097
+50,317,4.55,governments,"Sacramento County, CA",6067
+50,650,4.55,governments,"New York County, NY",36061
+12,14,4.54,governments,"Okanogan County, WA",53047
+50,145,4.54,governments,"Hocking County, OH",39073
+50,204,4.54,governments,"King William County, VA",51101
+50,263,4.54,governments,"Pickaway County, OH",39129
+50,770,4.54,governments,"Kings County, NY",36047
+50,91,4.53,governments,"Milam County, TX",48331
+50,142,4.53,governments,"Mayes County, OK",40097
+50,186,4.53,governments,"Lincoln County, ME",23015
+50,200,4.53,governments,"Honolulu County, HI",15003
+50,203,4.53,governments,"Knox County, ME",23013
+50,303,4.53,governments,"Richmond County, VA",51159
+50,112,4.52,governments,"Erie County, NY",36029
+50,137,4.52,governments,"Highland County, OH",39071
+50,104,4.51,governments,"Henry County, KY",21103
+50,131,4.51,governments,"Karnes County, TX",48255
+50,173,4.51,governments,"Wilson County, TX",48493
+50,236,4.51,governments,"Fulton County, GA",13121
+7,121,4.5,governments,"Crook County, WY",56011
+9,16,4.5,governments,"San Miguel County, NM",35047
+9,17,4.5,governments,"Kossuth County, IA",19109
+9,38,4.5,governments,"Union County, OR",41061
+50,65,4.5,governments,"Cattaraugus County, NY",36009
+50,75,4.5,governments,"Jefferson County, IN",18077
+50,103,4.5,governments,"Schoharie County, NY",36095
+50,138,4.5,governments,"Bulloch County, GA",13031
+50,173,4.5,governments,"Philadelphia County, PA",42101
+50,254,4.5,governments,"Tuolumne County, CA",6109
+50,303,4.5,governments,"Richmond, VA",51760
+50,77,4.49,governments,"Pulaski County, IN",18131
+50,110,4.49,governments,"Washington County, OK",40147
+50,286,4.49,governments,"Ross County, OH",39141
+50,94,4.48,governments,"Shelby County, OH",39149
+50,105,4.48,governments,"Osage County, OK",40113
+50,107,4.48,governments,"Grimes County, TX",48185
+50,125,4.48,governments,"Owen County, KY",21187
+50,142,4.48,governments,"Jasper County, IA",19099
+50,163,4.48,governments,"Hanover County, VA",51085
+50,181,4.48,governments,"New Kent County, VA",51127
+50,259,4.48,governments,"Boone County, IN",18011
+50,320,4.48,governments,"Santa Clara County, CA",6085
+17,25,4.47,governments,"Carroll County, KY",21041
+50,111,4.47,governments,"Okmulgee County, OK",40111
+50,211,4.47,governments,"Davidson County, TN",47037
+50,216,4.47,governments,"Charles City County, VA",51036
+50,274,4.47,governments,"Orange County, FL",12095
+50,118,4.46,governments,"Franklin County, IN",18047
+50,131,4.46,governments,"Levy County, FL",12075
+50,181,4.46,governments,"Mariposa County, CA",6043
+19,172,4.45,governments,"Grant County, WI",55043
