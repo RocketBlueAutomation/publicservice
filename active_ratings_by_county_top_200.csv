@@ -1,0 +1,201 @@
+results,reviews,rating,service,countyState,fips
+50,223,4.97,active,"Ada County, ID",16001
+50,619,4.96,active,"Mecklenburg County, NC",37119
+50,359,4.96,active,"Wake County, NC",37183
+50,236,4.95,active,"Orange County, FL",12095
+50,116,4.95,active,"Douglas County, NE",31055
+50,1462,4.94,active,"San Mateo County, CA",6081
+50,914,4.94,active,"Santa Clara County, CA",6085
+50,466,4.94,active,"Buncombe County, NC",37021
+50,424,4.94,active,"Dallas County, TX",48113
+50,192,4.94,active,"Denton County, TX",48121
+50,1573,4.94,active,"Travis County, TX",48453
+50,317,4.94,active,"Dane County, WI",55025
+50,883,4.93,active,"Contra Costa County, CA",6013
+50,3530,4.93,active,"Honolulu County, HI",15003
+50,168,4.93,active,"Kane County, IL",17089
+50,361,4.92,active,"Pinellas County, FL",12103
+50,280,4.92,active,"Cobb County, GA",13067
+50,561,4.92,active,"Charleston County, SC",45019
+50,303,4.92,active,"Falls Church, VA",51610
+50,415,4.91,active,"Maricopa County, AZ",4013
+50,507,4.91,active,"Boulder County, CO",8013
+50,635,4.91,active,"Denver County, CO",8031
+50,376,4.91,active,"Lee County, FL",12071
+50,494,4.91,active,"St. Louis, MO",29510
+50,389,4.91,active,"Montgomery County, PA",42091
+50,592,4.91,active,"Collin County, TX",48085
+50,431,4.91,active,"Tarrant County, TX",48439
+50,499,4.91,active,"Spokane County, WA",53063
+50,299,4.91,active,"Milwaukee County, WI",55079
+50,1817,4.9,active,"Marin County, CA",6041
+50,1168,4.9,active,"San Luis Obispo County, CA",6079
+50,423,4.9,active,"Stanislaus County, CA",6099
+50,614,4.9,active,"Jefferson County, KY",21111
+50,2265,4.9,active,"Orleans Parish, LA",22071
+50,652,4.9,active,"Union County, NJ",34039
+50,672,4.9,active,"Multnomah County, OR",41051
+50,747,4.9,active,"Davidson County, TN",47037
+50,269,4.9,active,"Williamson County, TN",47187
+50,2881,4.89,active,"San Francisco County, CA",6075
+50,487,4.89,active,"Solano County, CA",6095
+50,334,4.89,active,"Broomfield County, CO",8014
+50,1237,4.89,active,"Fulton County, GA",13121
+50,624,4.89,active,"DuPage County, IL",17043
+50,531,4.89,active,"Prince George's County, MD",24033
+50,339,4.89,active,"Oklahoma County, OK",40109
+50,699,4.89,active,"Harris County, TX",48201
+50,1904,4.88,active,"Santa Barbara County, CA",6083
+50,229,4.88,active,"Broward County, FL",12011
+50,409,4.88,active,"Benewah County, ID",16009
+50,229,4.88,active,"St. Charles County, MO",29183
+50,250,4.88,active,"Burlington County, NJ",34005
+50,322,4.88,active,"Bernalillo County, NM",35001
+50,609,4.88,active,"Madison County, NC",37115
+50,310,4.88,active,"Orange County, NC",37135
+50,319,4.88,active,"Cuyahoga County, OH",39035
+50,310,4.88,active,"Bucks County, PA",42017
+50,291,4.88,active,"Hamilton County, TN",47065
+50,557,4.88,active,"Shelby County, TN",47157
+50,823,4.88,active,"Arlington County, VA",51013
+50,557,4.88,active,"Fairfax, VA",51600
+50,433,4.88,active,"Pierce County, WA",53053
+50,185,4.87,active,"Shelby County, AL",1117
+50,166,4.87,active,"Polk County, IA",19153
+50,229,4.87,active,"Hennepin County, MN",27053
+50,789,4.87,active,"Essex County, NJ",34013
+50,515,4.87,active,"Williamson County, TX",48491
+50,861,4.87,active,"Virginia Beach, VA",51810
+50,2381,4.86,active,"Santa Cruz County, CA",6087
+50,419,4.86,active,"Jefferson County, CO",8059
+50,751,4.86,active,"Miami-Dade County, FL",12086
+50,305,4.86,active,"Gem County, ID",16045
+50,570,4.86,active,"Montgomery County, MD",24031
+50,303,4.86,active,"Hampden County, MA",25013
+50,1137,4.86,active,"Suffolk County, MA",25025
+50,205,4.86,active,"Sarpy County, NE",31153
+50,1343,4.86,active,"Hudson County, NJ",34017
+50,209,4.86,active,"Onondaga County, NY",36067
+50,226,4.86,active,"Franklin County, NC",37069
+50,973,4.86,active,"Allegheny County, PA",42003
+50,448,4.86,active,"Bexar County, TX",48029
+50,176,4.86,active,"El Paso County, TX",48141
+50,289,4.86,active,"Fort Bend County, TX",48157
+50,618,4.86,active,"Hays County, TX",48209
+50,882,4.85,active,"Sacramento County, CA",6067
+50,650,4.85,active,"Yuba County, CA",6115
+50,394,4.85,active,"Fairfield County, CT",9001
+50,390,4.85,active,"Manatee County, FL",12081
+50,292,4.85,active,"Frederick County, MD",24021
+50,265,4.85,active,"Oakland County, MI",26125
+50,1673,4.85,active,"St. Louis County, MO",29189
+50,867,4.85,active,"Storey County, NV",32029
+50,1229,4.85,active,"New York County, NY",36061
+50,351,4.85,active,"Tulsa County, OK",40143
+50,407,4.85,active,"Greenville County, SC",45045
+50,948,4.84,active,"Hillsborough County, FL",12057
+50,594,4.84,active,"Cook County, IL",17031
+50,187,4.84,active,"Lake County, IN",18089
+50,103,4.84,active,"Dallas County, IA",19049
+50,283,4.84,active,"Wyandotte County, KS",20209
+50,447,4.84,active,"Anne Arundel County, MD",24003
+50,911,4.84,active,"Clark County, NV",32003
+50,540,4.84,active,"Monmouth County, NJ",34025
+50,427,4.84,active,"Passaic County, NJ",34031
+50,339,4.84,active,"Santa Fe County, NM",35049
+50,265,4.84,active,"Albany County, NY",36001
+50,486,4.84,active,"Durham County, NC",37063
+50,223,4.84,active,"Kingfisher County, OK",40073
+50,498,4.84,active,"Salt Lake County, UT",49035
+50,561,4.84,active,"Alexandria, VA",51510
+50,166,4.84,active,"Calumet County, WI",55015
+50,197,4.83,active,"Benton County, AR",5007
+50,1403,4.83,active,"Alameda County, CA",6001
+50,697,4.83,active,"Duval County, FL",12031
+50,257,4.83,active,"Elmore County, ID",16039
+50,277,4.83,active,"West Baton Rouge Parish, LA",22121
+50,149,4.83,active,"Kent County, MI",26081
+50,155,4.83,active,"Macomb County, MI",26099
+50,923,4.83,active,"Bergen County, NJ",34003
+50,231,4.83,active,"Camden County, NJ",34007
+50,254,4.83,active,"Providence County, RI",44007
+50,252,4.83,active,"Edgefield County, SC",45037
+50,740,4.83,active,"Summit County, UT",49043
+50,763,4.83,active,"Henrico County, VA",51087
+50,711,4.83,active,"Richmond, VA",51760
+3,24,4.83,active,"Aroostook County, ME",23003
+3,9,4.83,active,"Eddy County, ND",38027
+50,209,4.82,active,"Coosa County, AL",1037
+50,661,4.82,active,"Dolores County, CO",8033
+50,290,4.82,active,"El Paso County, CO",8041
+50,1192,4.82,active,"District of Columbia, DC",11001
+50,227,4.82,active,"Washington County, MN",27163
+50,457,4.82,active,"Flathead County, MT",30029
+50,296,4.82,active,"Mercer County, NJ",34021
+50,272,4.82,active,"Monroe County, NY",36055
+50,266,4.82,active,"Summit County, OH",39153
+50,388,4.82,active,"Knox County, TN",47093
+50,550,4.82,active,"Fairfax County, VA",51059
+50,729,4.82,active,"Richmond County, VA",51159
+50,328,4.81,active,"Hartford County, CT",9003
+50,242,4.81,active,"Kendall County, IL",17093
+50,182,4.81,active,"Union County, IA",19175
+50,156,4.81,active,"Johnson County, KS",20091
+50,371,4.81,active,"Fayette County, KY",21067
+50,304,4.81,active,"East Baton Rouge Parish, LA",22033
+50,118,4.81,active,"Butler County, NE",31023
+50,527,4.81,active,"Morris County, NJ",34027
+50,909,4.81,active,"Richmond County, NY",36085
+50,585,4.81,active,"Rockland County, NY",36087
+50,388,4.81,active,"Hamilton County, OH",39061
+50,231,4.81,active,"Logan County, OK",40083
+50,225,4.81,active,"Okmulgee County, OK",40111
+50,464,4.81,active,"Deschutes County, OR",41017
+50,1386,4.81,active,"Philadelphia County, PA",42101
+50,306,4.81,active,"Sequatchie County, TN",47153
+50,299,4.8,active,"Jefferson County, AL",1073
+50,2157,4.8,active,"Napa County, CA",6055
+50,541,4.8,active,"San Joaquin County, CA",6077
+50,259,4.8,active,"Bradford County, FL",12007
+50,589,4.8,active,"Palm Beach County, FL",12099
+50,279,4.8,active,"Boise County, ID",16015
+50,231,4.8,active,"Greene County, IL",17061
+50,124,4.8,active,"Greene County, IA",19073
+50,207,4.8,active,"Hampshire County, MA",25015
+50,215,4.8,active,"Hillsborough County, NH",33011
+50,646,4.8,active,"Somerset County, NJ",34035
+50,171,4.8,active,"Cayuga County, NY",36011
+50,1653,4.8,active,"Kings County, NY",36047
+50,351,4.8,active,"Putnam County, NY",36079
+50,599,4.8,active,"Franklin County, OH",39049
+50,384,4.8,active,"Delaware County, PA",42045
+50,324,4.79,active,"Madison County, AR",5087
+50,652,4.79,active,"Yolo County, CA",6113
+50,254,4.79,active,"Douglas County, CO",8035
+50,303,4.79,active,"New Haven County, CT",9009
+50,269,4.79,active,"Gadsden County, FL",12039
+50,814,4.79,active,"Chatham County, GA",13051
+50,280,4.79,active,"Plymouth County, MA",25023
+50,206,4.79,active,"Anoka County, MN",27003
+50,427,4.79,active,"Middlesex County, NJ",34023
+50,609,4.79,active,"Bronx County, NY",36005
+50,196,4.79,active,"Okfuskee County, OK",40107
+50,205,4.79,active,"Kent County, RI",44003
+50,466,4.79,active,"Jasper County, SC",45053
+50,719,4.79,active,"Prince William County, VA",51153
+50,291,4.79,active,"Chesapeake, VA",51550
+50,1280,4.79,active,"King County, WA",53033
+50,1087,4.79,active,"Snohomish County, WA",53061
+50,780,4.79,active,"Skamania County, WA",53059
+50,262,4.78,active,"Butte County, CA",6007
+50,356,4.78,active,"Humboldt County, CA",6023
+50,899,4.78,active,"Placer County, CA",6061
+50,170,4.78,active,"Clay County, FL",12019
+50,261,4.78,active,"Leon County, FL",12073
+50,260,4.78,active,"Burke County, GA",13033
+50,1293,4.78,active,"DeKalb County, GA",13089
+50,501,4.78,active,"Kootenai County, ID",16055
+50,263,4.78,active,"Calhoun County, IL",17013
+50,328,4.78,active,"St. Charles Parish, LA",22089
+50,212,4.78,active,"Bristol County, MA",25005
+50,142,4.78,active,"George County, MS",28039
