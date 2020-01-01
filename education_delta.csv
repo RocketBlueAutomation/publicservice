@@ -1,4 +1,4 @@
-results	reviews	rating	service	countyState	state	fips
+results,	reviews,	rating,	service,	countyState,	state,	fips
 50	190	0.03	education	Boulder County	 CO	8013
 9	51	0.43	education	Kossuth County	 IA	19109
 12	58	0.36	education	Humboldt County	 IA	19091
